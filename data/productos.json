@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Producto 1",
+    "precio": 100,
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bouteille_de_Coca-Cola_d%27un_litre_cinq_001.jpg/220px-Bouteille_de_Coca-Cola_d%27un_litre_cinq_001.jpg"
+  },
+  {
+    "nombre": "Juan Martin",
+    "precio": "2323",
+    "foto": "Juan Martin",
+    "id": 4
+  },
+  {
+    "nombre": "pedro",
+    "precio": "78",
+    "foto": "pedro",
+    "id": 5
+  },
+  {
+    "nombre": "yanina",
+    "precio": "123",
+    "foto": "https://latinafy.com/images/thumbnails/590/590/detailed/8/taragui-sin-palo__32117.1613753373.1280.1280.jpg",
+    "id": 6
+  },
+  {
+    "nombre": "Juan Martin",
+    "precio": "2323",
+    "foto": "https://pbs.twimg.com/profile_images/1013761221248634880/cRzWAp_F_400x400.jpg",
+    "id": 9
+  },
+  {
+    "nombre": "cerveza quilmes",
+    "precio": "330",
+    "foto": "https://cloud46.smasproductos.com/45760651-high/1569490340-cerveza-quilmes-argentina-botellin-tercio-33-cl.png",
+    "id": 10
+  }
+]
